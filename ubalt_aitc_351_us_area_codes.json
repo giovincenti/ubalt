@@ -1,0 +1,1214 @@
+[
+    {
+        "state": "Mississippi",
+        "area_code": 228
+    },
+    {
+        "state": "Mississippi",
+        "area_code": 601
+    },
+    {
+        "state": "Mississippi",
+        "area_code": 662
+    },
+    {
+        "state": "Mississippi",
+        "area_code": 769
+    },
+    {
+        "state": "Northern Mariana Islands",
+        "area_code": 670
+    },
+    {
+        "state": "Oklahoma",
+        "area_code": 405
+    },
+    {
+        "state": "Oklahoma",
+        "area_code": 539
+    },
+    {
+        "state": "Oklahoma",
+        "area_code": 580
+    },
+    {
+        "state": "Oklahoma",
+        "area_code": 918
+    },
+    {
+        "state": "Delaware",
+        "area_code": 302
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 218
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 320
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 507
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 612
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 651
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 763
+    },
+    {
+        "state": "Minnesota",
+        "area_code": 952
+    },
+    {
+        "state": "Illinois",
+        "area_code": 217
+    },
+    {
+        "state": "Illinois",
+        "area_code": 224
+    },
+    {
+        "state": "Illinois",
+        "area_code": 309
+    },
+    {
+        "state": "Illinois",
+        "area_code": 312
+    },
+    {
+        "state": "Illinois",
+        "area_code": 331
+    },
+    {
+        "state": "Illinois",
+        "area_code": 618
+    },
+    {
+        "state": "Illinois",
+        "area_code": 630
+    },
+    {
+        "state": "Illinois",
+        "area_code": 708
+    },
+    {
+        "state": "Illinois",
+        "area_code": 773
+    },
+    {
+        "state": "Illinois",
+        "area_code": 779
+    },
+    {
+        "state": "Illinois",
+        "area_code": 815
+    },
+    {
+        "state": "Illinois",
+        "area_code": 847
+    },
+    {
+        "state": "Illinois",
+        "area_code": 872
+    },
+    {
+        "state": "Arkansas",
+        "area_code": 479
+    },
+    {
+        "state": "Arkansas",
+        "area_code": 501
+    },
+    {
+        "state": "Arkansas",
+        "area_code": 870
+    },
+    {
+        "state": "New Mexico",
+        "area_code": 505
+    },
+    {
+        "state": "New Mexico",
+        "area_code": 575
+    },
+    {
+        "state": "Indiana",
+        "area_code": 219
+    },
+    {
+        "state": "Indiana",
+        "area_code": 260
+    },
+    {
+        "state": "Indiana",
+        "area_code": 317
+    },
+    {
+        "state": "Indiana",
+        "area_code": 574
+    },
+    {
+        "state": "Indiana",
+        "area_code": 765
+    },
+    {
+        "state": "Indiana",
+        "area_code": 812
+    },
+    {
+        "state": "Maryland",
+        "area_code": 240
+    },
+    {
+        "state": "Maryland",
+        "area_code": 301
+    },
+    {
+        "state": "Maryland",
+        "area_code": 410
+    },
+    {
+        "state": "Maryland",
+        "area_code": 443
+    },
+    {
+        "state": "Maryland",
+        "area_code": 667
+    },
+    {
+        "state": "Louisiana",
+        "area_code": 225
+    },
+    {
+        "state": "Louisiana",
+        "area_code": 318
+    },
+    {
+        "state": "Louisiana",
+        "area_code": 337
+    },
+    {
+        "state": "Louisiana",
+        "area_code": 504
+    },
+    {
+        "state": "Louisiana",
+        "area_code": 985
+    },
+    {
+        "state": "Idaho",
+        "area_code": 208
+    },
+    {
+        "state": "Wyoming",
+        "area_code": 307
+    },
+    {
+        "state": "Tennessee",
+        "area_code": 423
+    },
+    {
+        "state": "Tennessee",
+        "area_code": 615
+    },
+    {
+        "state": "Tennessee",
+        "area_code": 731
+    },
+    {
+        "state": "Tennessee",
+        "area_code": 865
+    },
+    {
+        "state": "Tennessee",
+        "area_code": 901
+    },
+    {
+        "state": "Tennessee",
+        "area_code": 931
+    },
+    {
+        "state": "Arizona",
+        "area_code": 480
+    },
+    {
+        "state": "Arizona",
+        "area_code": 520
+    },
+    {
+        "state": "Arizona",
+        "area_code": 602
+    },
+    {
+        "state": "Arizona",
+        "area_code": 623
+    },
+    {
+        "state": "Arizona",
+        "area_code": 928
+    },
+    {
+        "state": "Iowa",
+        "area_code": 319
+    },
+    {
+        "state": "Iowa",
+        "area_code": 515
+    },
+    {
+        "state": "Iowa",
+        "area_code": 563
+    },
+    {
+        "state": "Iowa",
+        "area_code": 641
+    },
+    {
+        "state": "Iowa",
+        "area_code": 712
+    },
+    {
+        "state": "Michigan",
+        "area_code": 231
+    },
+    {
+        "state": "Michigan",
+        "area_code": 248
+    },
+    {
+        "state": "Michigan",
+        "area_code": 269
+    },
+    {
+        "state": "Michigan",
+        "area_code": 313
+    },
+    {
+        "state": "Michigan",
+        "area_code": 517
+    },
+    {
+        "state": "Michigan",
+        "area_code": 586
+    },
+    {
+        "state": "Michigan",
+        "area_code": 616
+    },
+    {
+        "state": "Michigan",
+        "area_code": 734
+    },
+    {
+        "state": "Michigan",
+        "area_code": 810
+    },
+    {
+        "state": "Michigan",
+        "area_code": 906
+    },
+    {
+        "state": "Michigan",
+        "area_code": 947
+    },
+    {
+        "state": "Michigan",
+        "area_code": 989
+    },
+    {
+        "state": "Kansas",
+        "area_code": 316
+    },
+    {
+        "state": "Kansas",
+        "area_code": 620
+    },
+    {
+        "state": "Kansas",
+        "area_code": 785
+    },
+    {
+        "state": "Kansas",
+        "area_code": 913
+    },
+    {
+        "state": "Utah",
+        "area_code": 385
+    },
+    {
+        "state": "Utah",
+        "area_code": 435
+    },
+    {
+        "state": "Utah",
+        "area_code": 801
+    },
+    {
+        "state": "American Samoa",
+        "area_code": 684
+    },
+    {
+        "state": "Oregon",
+        "area_code": 458
+    },
+    {
+        "state": "Oregon",
+        "area_code": 503
+    },
+    {
+        "state": "Oregon",
+        "area_code": 541
+    },
+    {
+        "state": "Oregon",
+        "area_code": 971
+    },
+    {
+        "state": "Connecticut",
+        "area_code": 203
+    },
+    {
+        "state": "Connecticut",
+        "area_code": 475
+    },
+    {
+        "state": "Connecticut",
+        "area_code": 860
+    },
+    {
+        "state": "Montana",
+        "area_code": 406
+    },
+    {
+        "state": "California",
+        "area_code": 209
+    },
+    {
+        "state": "California",
+        "area_code": 213
+    },
+    {
+        "state": "California",
+        "area_code": 310
+    },
+    {
+        "state": "California",
+        "area_code": 323
+    },
+    {
+        "state": "California",
+        "area_code": 408
+    },
+    {
+        "state": "California",
+        "area_code": 415
+    },
+    {
+        "state": "California",
+        "area_code": 424
+    },
+    {
+        "state": "California",
+        "area_code": 442
+    },
+    {
+        "state": "California",
+        "area_code": 510
+    },
+    {
+        "state": "California",
+        "area_code": 530
+    },
+    {
+        "state": "California",
+        "area_code": 559
+    },
+    {
+        "state": "California",
+        "area_code": 562
+    },
+    {
+        "state": "California",
+        "area_code": 619
+    },
+    {
+        "state": "California",
+        "area_code": 626
+    },
+    {
+        "state": "California",
+        "area_code": 650
+    },
+    {
+        "state": "California",
+        "area_code": 657
+    },
+    {
+        "state": "California",
+        "area_code": 661
+    },
+    {
+        "state": "California",
+        "area_code": 669
+    },
+    {
+        "state": "California",
+        "area_code": 707
+    },
+    {
+        "state": "California",
+        "area_code": 714
+    },
+    {
+        "state": "California",
+        "area_code": 747
+    },
+    {
+        "state": "California",
+        "area_code": 760
+    },
+    {
+        "state": "California",
+        "area_code": 805
+    },
+    {
+        "state": "California",
+        "area_code": 818
+    },
+    {
+        "state": "California",
+        "area_code": 831
+    },
+    {
+        "state": "California",
+        "area_code": 858
+    },
+    {
+        "state": "California",
+        "area_code": 909
+    },
+    {
+        "state": "California",
+        "area_code": 916
+    },
+    {
+        "state": "California",
+        "area_code": 925
+    },
+    {
+        "state": "California",
+        "area_code": 949
+    },
+    {
+        "state": "California",
+        "area_code": 951
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 339
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 351
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 413
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 508
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 617
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 774
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 781
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 857
+    },
+    {
+        "state": "Massachusetts",
+        "area_code": 978
+    },
+    {
+        "state": "Puerto Rico",
+        "area_code": 787
+    },
+    {
+        "state": "Puerto Rico",
+        "area_code": 939
+    },
+    {
+        "state": "South Carolina",
+        "area_code": 803
+    },
+    {
+        "state": "South Carolina",
+        "area_code": 843
+    },
+    {
+        "state": "South Carolina",
+        "area_code": 864
+    },
+    {
+        "state": "New Hampshire",
+        "area_code": 603
+    },
+    {
+        "state": "Wisconsin",
+        "area_code": 262
+    },
+    {
+        "state": "Wisconsin",
+        "area_code": 414
+    },
+    {
+        "state": "Wisconsin",
+        "area_code": 534
+    },
+    {
+        "state": "Wisconsin",
+        "area_code": 608
+    },
+    {
+        "state": "Wisconsin",
+        "area_code": 715
+    },
+    {
+        "state": "Wisconsin",
+        "area_code": 920
+    },
+    {
+        "state": "Vermont",
+        "area_code": 802
+    },
+    {
+        "state": "Georgia",
+        "area_code": 229
+    },
+    {
+        "state": "Georgia",
+        "area_code": 404
+    },
+    {
+        "state": "Georgia",
+        "area_code": 470
+    },
+    {
+        "state": "Georgia",
+        "area_code": 478
+    },
+    {
+        "state": "Georgia",
+        "area_code": 678
+    },
+    {
+        "state": "Georgia",
+        "area_code": 706
+    },
+    {
+        "state": "Georgia",
+        "area_code": 762
+    },
+    {
+        "state": "Georgia",
+        "area_code": 770
+    },
+    {
+        "state": "Georgia",
+        "area_code": 912
+    },
+    {
+        "state": "North Dakota",
+        "area_code": 701
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 215
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 267
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 272
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 412
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 484
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 570
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 610
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 717
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 724
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 814
+    },
+    {
+        "state": "Pennsylvania",
+        "area_code": 878
+    },
+    {
+        "state": "West Virginia",
+        "area_code": 304
+    },
+    {
+        "state": "West Virginia",
+        "area_code": 681
+    },
+    {
+        "state": "Florida",
+        "area_code": 239
+    },
+    {
+        "state": "Florida",
+        "area_code": 305
+    },
+    {
+        "state": "Florida",
+        "area_code": 321
+    },
+    {
+        "state": "Florida",
+        "area_code": 352
+    },
+    {
+        "state": "Florida",
+        "area_code": 386
+    },
+    {
+        "state": "Florida",
+        "area_code": 407
+    },
+    {
+        "state": "Florida",
+        "area_code": 561
+    },
+    {
+        "state": "Florida",
+        "area_code": 727
+    },
+    {
+        "state": "Florida",
+        "area_code": 754
+    },
+    {
+        "state": "Florida",
+        "area_code": 772
+    },
+    {
+        "state": "Florida",
+        "area_code": 786
+    },
+    {
+        "state": "Florida",
+        "area_code": 813
+    },
+    {
+        "state": "Florida",
+        "area_code": 850
+    },
+    {
+        "state": "Florida",
+        "area_code": 863
+    },
+    {
+        "state": "Florida",
+        "area_code": 904
+    },
+    {
+        "state": "Florida",
+        "area_code": 941
+    },
+    {
+        "state": "Florida",
+        "area_code": 954
+    },
+    {
+        "state": "Hawaii",
+        "area_code": 808
+    },
+    {
+        "state": "Kentucky",
+        "area_code": 270
+    },
+    {
+        "state": "Kentucky",
+        "area_code": 502
+    },
+    {
+        "state": "Kentucky",
+        "area_code": 606
+    },
+    {
+        "state": "Kentucky",
+        "area_code": 859
+    },
+    {
+        "state": "Alaska",
+        "area_code": 907
+    },
+    {
+        "state": "Nebraska",
+        "area_code": 308
+    },
+    {
+        "state": "Nebraska",
+        "area_code": 402
+    },
+    {
+        "state": "Nebraska",
+        "area_code": 531
+    },
+    {
+        "state": "Missouri",
+        "area_code": 314
+    },
+    {
+        "state": "Missouri",
+        "area_code": 417
+    },
+    {
+        "state": "Missouri",
+        "area_code": 573
+    },
+    {
+        "state": "Missouri",
+        "area_code": 636
+    },
+    {
+        "state": "Missouri",
+        "area_code": 660
+    },
+    {
+        "state": "Missouri",
+        "area_code": 816
+    },
+    {
+        "state": "Ohio",
+        "area_code": 216
+    },
+    {
+        "state": "Ohio",
+        "area_code": 234
+    },
+    {
+        "state": "Ohio",
+        "area_code": 330
+    },
+    {
+        "state": "Ohio",
+        "area_code": 419
+    },
+    {
+        "state": "Ohio",
+        "area_code": 440
+    },
+    {
+        "state": "Ohio",
+        "area_code": 513
+    },
+    {
+        "state": "Ohio",
+        "area_code": 567
+    },
+    {
+        "state": "Ohio",
+        "area_code": 614
+    },
+    {
+        "state": "Ohio",
+        "area_code": 740
+    },
+    {
+        "state": "Ohio",
+        "area_code": 937
+    },
+    {
+        "state": "Alabama",
+        "area_code": 205
+    },
+    {
+        "state": "Alabama",
+        "area_code": 251
+    },
+    {
+        "state": "Alabama",
+        "area_code": 256
+    },
+    {
+        "state": "Alabama",
+        "area_code": 334
+    },
+    {
+        "state": "Alabama",
+        "area_code": 938
+    },
+    {
+        "state": "Rhode Island",
+        "area_code": 401
+    },
+    {
+        "state": "Washington, DC",
+        "area_code": 202
+    },
+    {
+        "state": "Virgin Islands",
+        "area_code": 340
+    },
+    {
+        "state": "South Dakota",
+        "area_code": 605
+    },
+    {
+        "state": "Colorado",
+        "area_code": 303
+    },
+    {
+        "state": "Colorado",
+        "area_code": 719
+    },
+    {
+        "state": "Colorado",
+        "area_code": 720
+    },
+    {
+        "state": "Colorado",
+        "area_code": 970
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 201
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 551
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 609
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 732
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 848
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 856
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 862
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 908
+    },
+    {
+        "state": "New Jersey",
+        "area_code": 973
+    },
+    {
+        "state": "Virginia",
+        "area_code": 276
+    },
+    {
+        "state": "Virginia",
+        "area_code": 434
+    },
+    {
+        "state": "Virginia",
+        "area_code": 540
+    },
+    {
+        "state": "Virginia",
+        "area_code": 571
+    },
+    {
+        "state": "Virginia",
+        "area_code": 703
+    },
+    {
+        "state": "Virginia",
+        "area_code": 757
+    },
+    {
+        "state": "Virginia",
+        "area_code": 804
+    },
+    {
+        "state": "Guam",
+        "area_code": 671
+    },
+    {
+        "state": "Washington",
+        "area_code": 206
+    },
+    {
+        "state": "Washington",
+        "area_code": 253
+    },
+    {
+        "state": "Washington",
+        "area_code": 360
+    },
+    {
+        "state": "Washington",
+        "area_code": 425
+    },
+    {
+        "state": "Washington",
+        "area_code": 509
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 252
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 336
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 704
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 828
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 910
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 919
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 980
+    },
+    {
+        "state": "North Carolina",
+        "area_code": 984
+    },
+    {
+        "state": "New York",
+        "area_code": 212
+    },
+    {
+        "state": "New York",
+        "area_code": 315
+    },
+    {
+        "state": "New York",
+        "area_code": 347
+    },
+    {
+        "state": "New York",
+        "area_code": 516
+    },
+    {
+        "state": "New York",
+        "area_code": 518
+    },
+    {
+        "state": "New York",
+        "area_code": 585
+    },
+    {
+        "state": "New York",
+        "area_code": 607
+    },
+    {
+        "state": "New York",
+        "area_code": 631
+    },
+    {
+        "state": "New York",
+        "area_code": 646
+    },
+    {
+        "state": "New York",
+        "area_code": 716
+    },
+    {
+        "state": "New York",
+        "area_code": 718
+    },
+    {
+        "state": "New York",
+        "area_code": 845
+    },
+    {
+        "state": "New York",
+        "area_code": 914
+    },
+    {
+        "state": "New York",
+        "area_code": 917
+    },
+    {
+        "state": "New York",
+        "area_code": 929
+    },
+    {
+        "state": "Texas",
+        "area_code": 210
+    },
+    {
+        "state": "Texas",
+        "area_code": 214
+    },
+    {
+        "state": "Texas",
+        "area_code": 254
+    },
+    {
+        "state": "Texas",
+        "area_code": 281
+    },
+    {
+        "state": "Texas",
+        "area_code": 325
+    },
+    {
+        "state": "Texas",
+        "area_code": 346
+    },
+    {
+        "state": "Texas",
+        "area_code": 361
+    },
+    {
+        "state": "Texas",
+        "area_code": 409
+    },
+    {
+        "state": "Texas",
+        "area_code": 430
+    },
+    {
+        "state": "Texas",
+        "area_code": 432
+    },
+    {
+        "state": "Texas",
+        "area_code": 469
+    },
+    {
+        "state": "Texas",
+        "area_code": 512
+    },
+    {
+        "state": "Texas",
+        "area_code": 682
+    },
+    {
+        "state": "Texas",
+        "area_code": 713
+    },
+    {
+        "state": "Texas",
+        "area_code": 737
+    },
+    {
+        "state": "Texas",
+        "area_code": 806
+    },
+    {
+        "state": "Texas",
+        "area_code": 817
+    },
+    {
+        "state": "Texas",
+        "area_code": 830
+    },
+    {
+        "state": "Texas",
+        "area_code": 832
+    },
+    {
+        "state": "Texas",
+        "area_code": 903
+    },
+    {
+        "state": "Texas",
+        "area_code": 915
+    },
+    {
+        "state": "Texas",
+        "area_code": 936
+    },
+    {
+        "state": "Texas",
+        "area_code": 940
+    },
+    {
+        "state": "Texas",
+        "area_code": 956
+    },
+    {
+        "state": "Texas",
+        "area_code": 972
+    },
+    {
+        "state": "Texas",
+        "area_code": 979
+    },
+    {
+        "state": "Nevada",
+        "area_code": 702
+    },
+    {
+        "state": "Nevada",
+        "area_code": 725
+    },
+    {
+        "state": "Nevada",
+        "area_code": 775
+    },
+    {
+        "state": "Maine",
+        "area_code": 207
+    }
+]
